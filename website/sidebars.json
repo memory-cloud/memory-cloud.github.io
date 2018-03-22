@@ -1,14 +1,14 @@
 {
   "docs": {
     "Server Setup": [
-      "requerimentos"
+      "server-installation",
+      "server-scaling"
     ],
     "Unity Setup": [
-      "estrutura-pastas",
-      "versionamento"
+      "unity-installation"
     ],
-    "Guidelines": [
-      "nomenclatura"
+    "Documentation API": [
+      "api-documentation"
     ]
   }
 }

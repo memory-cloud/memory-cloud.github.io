@@ -1,0 +1,14 @@
+{
+  "docs": {
+    "Server Setup": [
+      "requerimentos"
+    ],
+    "Unity Setup": [
+      "estrutura-pastas",
+      "versionamento"
+    ],
+    "Guidelines": [
+      "nomenclatura"
+    ]
+  }
+}

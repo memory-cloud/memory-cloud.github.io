@@ -116,13 +116,13 @@ const Features = props => (
         title: 'Encrypted',
       },
       {
-        content: '<translate>This is thesss content of my feature</translate>',
+        content: '<translate>With GraphQL and JavaScript ES8</translate>',
         image: imgUrl('docusaurus.svg'),
         imageAlign: 'top',
-        title: '<translate>Frictissssonless sign-up</translate>',
+        title: '<translate>Extend easily</translate>',
       },
       {
-        content: '<translate>The cossntent of my second feature</translate>',
+        content: '<translate>Support multiple games</translate>',
         image: imgUrl('docusaurus.svg'),
         imageAlign: 'top',
         title: 'Encryptedss',
